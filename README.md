@@ -24,7 +24,7 @@ The analysis uses the \*\*Telco Customer Churn\*\* dataset (IBM), which contains
 * Monthly and total charges
 * Customer churn status (target variable)
 
-The target variable is \*\*Churn\*\*, encoded as:
+The target variable is **Churn**, encoded as:
 * 1: Customer churned
 * 0: Customer retained
 ---
@@ -48,7 +48,7 @@ The following models were implemented and compared:
 * Class-weighted Logistic Regression (improved churn recall)
 * Random Forest Classifier (nonlinear model)
 
-Given the class imbalance in the dataset, evaluation focused on \*\*ROC-AUC\*\*, \*\*precision\*\*, \*\*recall\*\*, and \*\*F1-score\*\*, rather than accuracy alone.
+Given the class imbalance in the dataset, evaluation focused on **ROC-AUC**, **precision**, **recall**, and **F1-score**, rather than accuracy alone.
 
 ---
 
