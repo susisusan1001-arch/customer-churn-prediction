@@ -18,7 +18,7 @@ The objective of this project is to build, evaluate, and interpret classificatio
 
 ---
 ## Dataset
-The analysis uses the \*\*Telco Customer Churn\*\* dataset (IBM), which contains customer-level information including:
+The analysis uses the **Telco Customer Churn** dataset (IBM), which contains customer-level information including:
 * Contract type and tenure
 * Service subscriptions
 * Monthly and total charges
@@ -67,7 +67,7 @@ The results demonstrate how predictive modeling can be used to identify high-ris
 * Python
 * pandas, numpy
 * scikit-learn
-* matplotlib, seaborn
+* matplotlib
 
 ---
 
